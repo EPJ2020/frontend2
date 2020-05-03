@@ -1,0 +1,4 @@
+  
+exclude:
+- /SwipePrototype/.*
+component_depth: 8
